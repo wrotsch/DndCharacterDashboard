@@ -1,0 +1,13 @@
+WARNING - 12:45:31: First conversion pass
+ERROR - 12:45:31: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 12:45:56: Convert csi203.f18
+WARNING - 12:45:56: First conversion pass
+ERROR - 12:45:56: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 12:47:20: Convert csi203.f18
+WARNING - 12:47:20: First conversion pass
+ERROR - 12:47:20: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 12:47:31: Convert csi203.f18
+WARNING - 12:47:31: First conversion pass
+ERROR - 12:47:31: java.net.MalformedURLException: unknown protocol: pathmap
+WARNING - 13:05:46: First conversion pass
+ERROR - 13:05:46: java.net.MalformedURLException: unknown protocol: pathmap
